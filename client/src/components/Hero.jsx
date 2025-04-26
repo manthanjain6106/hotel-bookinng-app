@@ -9,7 +9,7 @@ const Hero = () => {
         Where Distinction Meets Destination
       </p>
 
-      <h1 className='font-playfair text-3xl sm:text-4xl md:text-5xl lg:text-[56px] leading-tight font-bold max-w-xl mt-4'>
+      <h1 className='font-playfair text-3xl sm:text-4xl md:text-5xl lg:text-[56px] leading-tight font-extrabold max-w-xl mt-4'>
         Experience the Pinnacle of Luxury Living
       </h1>
 
