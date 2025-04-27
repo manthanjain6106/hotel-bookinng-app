@@ -75,10 +75,10 @@ export const assets = {
 }
 
 export const cities = [
-    "Dubai",
-    "Singapore",
-    "New York",
-    "London",
+    "Delhi",
+    "Mumbai",
+    "Bengaluru",
+    "Goa",
 ];
 
 // Exclusive Offers Dummy Data
